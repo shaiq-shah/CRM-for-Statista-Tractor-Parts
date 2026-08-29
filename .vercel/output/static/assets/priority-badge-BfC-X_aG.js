@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Cltr0gcK.js";import{t}from"./badge-CYUWLrYa.js";var n=e();function r({priority:e}){return(0,n.jsx)(t,{variant:e===`Hot`?`hot`:e===`Warm`?`warm`:`cold`,children:e})}export{r as t};

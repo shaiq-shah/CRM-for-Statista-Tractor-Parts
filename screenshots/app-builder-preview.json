@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "CallDesk Statista Tractor Parts",
+      "hasCanvas": false,
+      "bodyTextLen": 485,
+      "bodyTextHash": "4e875523d0754d967fe76c8e9027d7fc83db1e985c4157a2c6f8f208795b7e52",
+      "bodyTextPrefix": "CALLDESK Dashboard Prospects Call Queue Requirements Callbacks C",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "CallDesk Statista Tractor Parts",
+      "hasCanvas": false,
+      "bodyTextLen": 358,
+      "bodyTextHash": "28aa9ffc6c1c9770784df03957b5668ab190da863100e9db7f6be82eff95881e",
+      "bodyTextPrefix": "CallDesk CALLDESK STATISTA TRACTOR PARTS Dashboard Import Excel ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

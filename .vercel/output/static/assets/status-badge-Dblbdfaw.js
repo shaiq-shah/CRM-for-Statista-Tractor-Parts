@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Cltr0gcK.js";import{t}from"./badge-CYUWLrYa.js";var n=e(),r={New:`new`,"To Call":`call`,Called:`called`,Callback:`callback`,Interested:`interested`,"Follow-up":`follow`,Qualified:`qualified`,Won:`won`,Lost:`lost`,"Not Interested":`lost`,"Do Not Call":`dnc`};function i({status:e}){return(0,n.jsx)(t,{variant:r[e],children:e})}export{i as t};
